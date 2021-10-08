@@ -1,8 +1,9 @@
+---
+tags: 網頁設計社
+---
+
 # 網頁設計社 課前預習 DAY3 (110上)
 
-[![hackmd-github-sync-badge](https://hackmd.io/UK-6-2SvTPWLqjNFUGZnfw/badge)](https://hackmd.io/UK-6-2SvTPWLqjNFUGZnfw)
-
-###### tags: `網頁設計社`
 [TOC]
 ## 講師:
 - Young#0001

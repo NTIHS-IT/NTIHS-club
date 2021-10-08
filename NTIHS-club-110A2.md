@@ -1,8 +1,9 @@
+---
+tags: 網頁設計社
+---
+
 # 網頁設計社 課前預習 DAY2 (110上)
 
-[![hackmd-github-sync-badge](https://hackmd.io/VvEGXlg8ThiuzAegOXeCqQ/badge)](https://hackmd.io/VvEGXlg8ThiuzAegOXeCqQ)
-
-###### tags: `網頁設計社`
 [TOC]
 ## 講師:
 - Young#0001
@@ -112,6 +113,11 @@ rmdir (資料夾名稱)
 ```
 echo (字串)
 ```
+
+```
+shutdown <arguments>
+```
+
 
 ![](https://i.imgur.com/vkIoqsx.png)
 
